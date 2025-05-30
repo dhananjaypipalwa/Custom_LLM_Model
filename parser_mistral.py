@@ -1,5 +1,3 @@
-#without batching
-
 import os
 import pdfplumber
 from docx import Document
@@ -64,12 +62,18 @@ def extract_text(file_path):
 
 def main():
     folder = "resumes"
+    os.makedirs("parsed_json", exist_ok=True)
+    
     for fname in os.listdir(folder):
         path = os.path.join(folder, fname)
         raw = extract_text(path)
         if raw:
             result = call_resume_parser(raw)
-            print(result)  # Print only the JSON (no explanation or heading)
+            base_name = os.path.splitext(fname)[0]
+            out_path = f"parsed_json/{base_name}.json"
+            with open(out_path, "w") as f:
+                f.write(result)
+            print(f"[?] Parsed {fname} ? saved to {out_path}")
 
 if __name__ == "__main__":
     main()

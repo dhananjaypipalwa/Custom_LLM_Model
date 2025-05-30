@@ -1,0 +1,16 @@
+{
+  "job_role": "Software Developer",
+  "skills_required": [
+    "Java"
+  ],
+  "min_experience": 2,
+  "employment_type": "Full-time",
+  "location": "Delhi",
+  "preferred_education": "B. Tech",
+  "preferred_companies": [
+    "Google",
+    "Microsoft",
+    "TCS",
+    "Infosys"
+  ]
+}
