@@ -1,16 +1,27 @@
 {
-  "job_role": "Software Developer",
-  "skills_required": [
-    "Java"
-  ],
-  "min_experience": 2,
+  "job_id": "J12345",
+  "job_title": "Software Developer",
+  "company_name": "ABC Tech Pvt Ltd",
+  "number_of_openings": 3,
   "employment_type": "Full-time",
+  "experience_requirements": 2,
+  "min_experience": 2,
   "location": "Delhi",
+  "education_requirements": "B. Tech",
   "preferred_education": "B. Tech",
   "preferred_companies": [
     "Google",
-    "Microsoft",
-    "TCS",
-    "Infosys"
-  ]
+    "TCS"
+  ],
+  "skills_required": [
+    "Java",
+    "Spring Boot"
+  ],
+  "spoken_languages": [
+    "English",
+    "Hindi"
+  ],
+  "salary": "\u20b98-12 LPA",
+  "joining_date": "2025-07-01",
+  "shift_timings": "9 AM - 6 PM"
 }
