@@ -1,0 +1,28 @@
+# Core libraries
+torch==2.7.1
+torchvision==0.17.1
+torchaudio==2.7.1
+
+# Transformers and LoRA
+transformers==4.36.2
+peft==0.10.0
+accelerate==0.25.0
+safetensors==0.4.2
+sentencepiece
+
+# Resume parsing utilities
+pdfplumber==0.10.2
+python-docx==1.1.0
+pytesseract==0.3.10
+Pillow==10.3.0
+
+# API
+fastapi==0.111.0
+uvicorn==0.29.0
+
+# ML utils
+scikit-learn==1.4.2
+numpy<2.0  # Ensures compatibility with PyTorch C extensions
+
+
+python 3.11

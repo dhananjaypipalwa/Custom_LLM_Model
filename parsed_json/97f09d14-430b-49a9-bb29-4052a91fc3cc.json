@@ -1,0 +1,121 @@
+{
+  "project_count": 0.0,
+  "designation": "QA Manual Tester",
+  "name": "First Last",
+  "college": "Resume Worded University",
+  "locations": [
+    "New York, NY",
+    "San Diego, CA"
+  ],
+  "full_output": {
+    "summary": "",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Resume Worded University",
+        "endDate": "May 2010",
+        "maximum_grade": "",
+        "degree": "BSc. Computer Science",
+        "location": "San Francisco, CA",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [],
+    "languages": [],
+    "experiences": [
+      {
+        "role_name": "QA Manual Tester",
+        "skillsUsed": [
+          "Microsoft TFS",
+          "TestNG",
+          "Source Versioning",
+          "CharlesProxy",
+          "JIRA",
+          "JUnit"
+        ],
+        "endDate": "Present",
+        "company_name": "Resume Worded",
+        "description": "Enabled critical test case complexity metrics with support for Rapid adoption of functional automation using a scriptless test case adaptor by standardizing a Test Case construction method that was built Automation-teady & supported a test automation framework leading to a 45% increase in reusability with reductions in TCO approaching 25%. Optimized scripting, modularity, & maintenance which resulted in an 18% decrease in workflow friction. Increased the company\u2019s ability to take and complete projects without increasing manpower by 15% by reducing QA testing turnaround time by 30%.",
+        "location": "New York, NY",
+        "links": "",
+        "startDate": "Jun 2018"
+      },
+      {
+        "role_name": "QA Manual Tester",
+        "skillsUsed": [
+          "Restructured utilities & improved the process documentation leading to a 40% reduction in client support tickets & an 80% increase in uptime.",
+          "Achieved department-wide improvement metrics based on QA scorecard through the 46% & 22% workload reduction of the customer support & IT departments respectively.",
+          "Standardized Test Plan, Test Scripts /'Test Cases, Daily Status Reports, etc., documents leading to a 20% increase in productivity.",
+          "Established monthly sprint backlog items as well as performed agile meetings while updating the activities in Microsoft TES in an optimized manner which resulted in saving 10 hours of monthly lost time."
+        ],
+        "endDate": "May 2018",
+        "company_name": "Growthsi",
+        "location": "New York, NY",
+        "description": "",
+        "links": "",
+        "startDate": "Jan 2015"
+      },
+      {
+        "role_name": "QA Manual Tester",
+        "skillsUsed": [
+          "Optimized the build process by increasing the system\u2019s quality level and reducing 45% of defects found.",
+          "Established proper team communication that identified, triaged, reproduced, & fixed found issues using JIRA in increasing the overall workflow by 25%.",
+          "Created traceability matrix to fill in the gap between requirements and tests covered contributing to the 10% increase in test case count."
+        ],
+        "endDate": "Dec 2014",
+        "company_name": "RW Capital",
+        "location": "San Diego, CA",
+        "description": "",
+        "links": "",
+        "startDate": "May 2008"
+      },
+      {
+        "role_name": "Junior QA Manual Tester",
+        "skillsUsed": [
+          "Wrote & optimized test scripts in towels which led to a 9% reduction in the overall testing hours.",
+          "Created traceability matrix to fill in the gap between requirements and tests covered contributing to the 10% increase in test case count."
+        ],
+        "endDate": "Oct 2011",
+        "company_name": "RW Capital",
+        "location": "San Diego, CA",
+        "description": "",
+        "links": "",
+        "startDate": "May 2010"
+      }
+    ],
+    "skills": [
+      "Test Automation",
+      "Microsoft TFS",
+      "TestNG",
+      "Source Versioning",
+      "CharlesProxy",
+      "JIRA",
+      "JUnit",
+      "Java",
+      "SQL/NoSQL",
+      "Jenkins",
+      "Scrum",
+      "Agile"
+    ],
+    "soft_skills": [],
+    "name": "First Last",
+    "position": "QA Manual Tester",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Bay Area, California",
+  "graduation_year": 2010.0,
+  "experience_count": 4.0,
+  "degree": "BSc. Computer Science",
+  "emails": [
+    "professionalemail@resumeworded.com"
+  ],
+  "phone_numbers": [
+    "1234456789"
+  ]
+}
