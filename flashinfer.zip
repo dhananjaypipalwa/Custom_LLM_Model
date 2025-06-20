@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>emerge-static.s3-eu-west-1.amazonaws.com</Endpoint><Bucket>emerge-static</Bucket><RequestId>9P3DK58GB2GMJ5C3</RequestId><HostId>38+pu1KnyxvsQLXE55p/dg5uCFlnrNjVL03wa9HE4MbN4mTWkzPwGeEuFisJT8OqHRGeboiEmEF/St8s57EOdQ==</HostId></Error>

@@ -1,2 +1,7 @@
-mistral_merged_model/
-mistral_merged_model/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.swp
+flash-attention/

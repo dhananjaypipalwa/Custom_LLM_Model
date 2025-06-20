@@ -1,0 +1,6708 @@
+[
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Allison Hill",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Calgary",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Allison Hill is a recent graduate from St. Lawrence College with a Post Graduation Diploma. Skilled in Leadership, MS Office, Excel, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Herrera-Dudley",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "MS Office",
+        "Excel",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Allison Hill",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "65423 Garcia Light, West Melanieview, AZ 96148",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "jillrhodes@miller.com"
+    ],
+    "phone_numbers": [
+      "890.838.6379"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Juan Calderon",
+    "college": "George Brown College",
+    "locations": [
+      "Toronto",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Juan Calderon is a recent graduate from George Brown College with a Post Graduation Diploma. Skilled in Leadership, MS Office, Teamwork, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Gentry PLC",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "MS Office",
+        "Teamwork",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Juan Calderon",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "76483 Cameron Trail, East Lydiamouth, KY 09176",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "janetwilliams@gmail.com"
+    ],
+    "phone_numbers": [
+      "0014131647525x53419"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Emily Rios",
+    "college": "Seneca College",
+    "locations": [
+      "Brampton",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Emily Rios is a recent graduate from Seneca College with a Bachelor of Commerce. Skilled in SQL, Teamwork, Communication, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Wilson, Dyer and Potter",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Teamwork",
+        "Communication",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Emily Rios",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "269 Paul Ranch, Riceside, AL 89667",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "ithomas@gmail.com"
+    ],
+    "phone_numbers": [
+      "0018849696532x8710"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Gina Carter",
+    "college": "George Brown College",
+    "locations": [
+      "Scarborough",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Gina Carter is a recent graduate from George Brown College with a Bachelor of Engineering. Skilled in Leadership, Excel, Communication, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Brandt-Hickman",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Excel",
+        "Communication",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Gina Carter",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "3039 Christopher Oval Apt. 822, Arroyoburgh, NC 80008",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "usmith@baker.com"
+    ],
+    "phone_numbers": [
+      "+14893252880x9570"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Melissa Marquez",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Scarborough",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Melissa Marquez is a recent graduate from St. Lawrence College with a Bachelor of Engineering. Skilled in Teamwork, Excel, Python, Leadership.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Sanchez-Kennedy",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Excel",
+        "Python",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Melissa Marquez",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "10518 Joshua Oval, New David, OK 76026",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "samuel87@gmail.com"
+    ],
+    "phone_numbers": [
+      "315.098.3930"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Brandon Hopkins",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Scarborough",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Brandon Hopkins is a recent graduate from St. Lawrence College with a Bachelor of Commerce. Skilled in Time Management, Teamwork, MS Office, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Martin Inc",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Time Management",
+        "Teamwork",
+        "MS Office",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Brandon Hopkins",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "8108 Tanya Terrace, East Richard, IL 53066",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "ujenkins@gmail.com"
+    ],
+    "phone_numbers": [
+      "+11065133387x26247"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Mrs. Rachel Gibson",
+    "college": "Seneca College",
+    "locations": [
+      "Toronto",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Mrs. Rachel Gibson is a recent graduate from Seneca College with a Bachelor of Engineering. Skilled in MS Office, Leadership, Communication, Excel.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Silva, Mills and Donovan",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Leadership",
+        "Communication",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Mrs. Rachel Gibson",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "19136 Shelly Port, New Brooke, CO 55449",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "smoore@gmail.com"
+    ],
+    "phone_numbers": [
+      "9805009788"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Mike Allen",
+    "college": "Humber College",
+    "locations": [
+      "Mississauga",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Mike Allen is a recent graduate from Humber College with a Bachelor of Engineering. Skilled in MS Office, Teamwork, Time Management, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Preston Ltd",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Teamwork",
+        "Time Management",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Mike Allen",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "8498 Elizabeth Plaza, Sarahville, DC 35165",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "emilyevans@yahoo.com"
+    ],
+    "phone_numbers": [
+      "0011079911838x42513"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Denise Jacobs",
+    "college": "George Brown College",
+    "locations": [
+      "Scarborough",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Denise Jacobs is a recent graduate from George Brown College with a MBA. Skilled in Leadership, Time Management, Communication, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Wright, Garcia and Deleon",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Time Management",
+        "Communication",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Denise Jacobs",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "28059 Russell Canyon, Michaelton, MI 28036",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "gracefarrell@hotmail.com"
+    ],
+    "phone_numbers": [
+      "401.640.0524x2786"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Jennifer Oliver",
+    "college": "Humber College",
+    "locations": [
+      "Scarborough",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Jennifer Oliver is a recent graduate from Humber College with a MBA. Skilled in Leadership, Teamwork, Time Management, Communication.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Wilson LLC",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Teamwork",
+        "Time Management",
+        "Communication"
+      ],
+      "soft_skills": [],
+      "name": "Jennifer Oliver",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "03654 Tammy Harbors, Darlenefurt, ND 43905",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "michellecherry@keith.com"
+    ],
+    "phone_numbers": [
+      "0015634216073x3754"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Victor Baker",
+    "college": "George Brown College",
+    "locations": [
+      "Calgary",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Victor Baker is a recent graduate from George Brown College with a MBA. Skilled in Communication, SQL, MS Office, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Adkins, Thompson and Carroll",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "SQL",
+        "MS Office",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Victor Baker",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "484 Nguyen Square, Angelaborough, TN 50196",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "yreed@graham-joyce.com"
+    ],
+    "phone_numbers": [
+      "9340608835x6159"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Roy Torres",
+    "college": "Sheridan College",
+    "locations": [
+      "Vancouver",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Roy Torres is a recent graduate from Sheridan College with a MBA. Skilled in Time Management, MS Office, Excel, Teamwork.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Brock Ltd",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Time Management",
+        "MS Office",
+        "Excel",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Roy Torres",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "176 Jennifer Lights Suite 632, Port Michelleville, NE 29184",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "mfloyd@morris.net"
+    ],
+    "phone_numbers": [
+      "214.895.1343x3200"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Amber Wright",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Mississauga",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Amber Wright is a recent graduate from St. Lawrence College with a Post Graduation Diploma. Skilled in Excel, Teamwork, Python, Leadership.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Brown Group",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Teamwork",
+        "Python",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Amber Wright",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "434 Flores Plains, East Edwardfurt, FL 93092",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "danderson@schmidt.info"
+    ],
+    "phone_numbers": [
+      "+18687277434x873"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "John Brown",
+    "college": "George Brown College",
+    "locations": [
+      "Scarborough",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "John Brown is a recent graduate from George Brown College with a Bachelor of Commerce. Skilled in Python, Time Management, Excel, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Johnson, Long and Elliott",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Time Management",
+        "Excel",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "John Brown",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "3467 Paul Skyway, Ramseymouth, DC 82061",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "lstein@hotmail.com"
+    ],
+    "phone_numbers": [
+      "9670546688"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Marvin Taylor",
+    "college": "Humber College",
+    "locations": [
+      "Scarborough",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Marvin Taylor is a recent graduate from Humber College with a Post Graduation Diploma. Skilled in Communication, Leadership, Python, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Obrien Ltd",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "Leadership",
+        "Python",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Marvin Taylor",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "33092 David Skyway, New Staciemouth, KS 48852",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "brentgray@gmail.com"
+    ],
+    "phone_numbers": [
+      "556.464.1708x053"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Paula Martin",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Calgary",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Paula Martin is a recent graduate from St. Lawrence College with a Bachelor of Engineering. Skilled in Leadership, MS Office, Communication, Excel.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Nelson, Morton and Medina",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "MS Office",
+        "Communication",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Paula Martin",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "506 Garcia Lake, Zimmermanchester, VA 68887",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "lanesarah@hotmail.com"
+    ],
+    "phone_numbers": [
+      "+16631931491x90586"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Mr. Nicholas Adams",
+    "college": "Humber College",
+    "locations": [
+      "Toronto",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Mr. Nicholas Adams is a recent graduate from Humber College with a MBA. Skilled in Time Management, Excel, Communication, MS Office.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Holt-Torres",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Time Management",
+        "Excel",
+        "Communication",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Mr. Nicholas Adams",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "083 John Lodge Suite 837, Westtown, LA 29546",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "ramirezshannon@hudson-barnett.com"
+    ],
+    "phone_numbers": [
+      "7527354549"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Kara Schmidt",
+    "college": "Sheridan College",
+    "locations": [
+      "Toronto",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Kara Schmidt is a recent graduate from Sheridan College with a Post Graduation Diploma. Skilled in MS Office, Excel, Teamwork, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Little Group",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Excel",
+        "Teamwork",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Kara Schmidt",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "43524 Jean Crossroad, Brandonton, LA 91912",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "michael74@yahoo.com"
+    ],
+    "phone_numbers": [
+      "3135182337x498"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Adam Mitchell",
+    "college": "George Brown College",
+    "locations": [
+      "Mississauga",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Adam Mitchell is a recent graduate from George Brown College with a Bachelor of Commerce. Skilled in Excel, MS Office, Teamwork, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Baker Inc",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "MS Office",
+        "Teamwork",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Adam Mitchell",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "993 Hayes Mills Suite 964, New Susanville, IL 82488",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "dpeterson@yahoo.com"
+    ],
+    "phone_numbers": [
+      "116.719.0229x4131"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Christopher Jones",
+    "college": "Humber College",
+    "locations": [
+      "Vancouver",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Christopher Jones is a recent graduate from Humber College with a MBA. Skilled in MS Office, SQL, Excel, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "George Group",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "SQL",
+        "Excel",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Christopher Jones",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "9947 Taylor Hollow, Benderhaven, NM 57878",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "mhayes@carter-hall.com"
+    ],
+    "phone_numbers": [
+      "0017134936183x242"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Lindsey Johnson",
+    "college": "Sheridan College",
+    "locations": [
+      "Mississauga",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Lindsey Johnson is a recent graduate from Sheridan College with a Bachelor of Commerce. Skilled in Leadership, Python, Excel, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Cox, Avila and Garrett",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Python",
+        "Excel",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Lindsey Johnson",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "7468 Shawn Island Suite 516, Lake Mollymouth, AR 25087",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "keyemily@johnston-hines.com"
+    ],
+    "phone_numbers": [
+      "874.296.7175x6551"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Christina Dunn",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Toronto",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Christina Dunn is a recent graduate from St. Lawrence College with a Bachelor of Engineering. Skilled in Leadership, Communication, Time Management, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Sanchez-Arnold",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Time Management",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Christina Dunn",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "Unit 1712 Box 7484, DPO AA 63743",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "fgilmore@gmail.com"
+    ],
+    "phone_numbers": [
+      "9324808613"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Thomas Romero",
+    "college": "Seneca College",
+    "locations": [
+      "Vancouver",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Thomas Romero is a recent graduate from Seneca College with a Bachelor of Commerce. Skilled in Leadership, Excel, SQL, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Sanford, Rivera and Garcia",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Excel",
+        "SQL",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Thomas Romero",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "5339 Hall Trail Suite 057, Hughesberg, AZ 17048",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "hillkristy@morgan-french.com"
+    ],
+    "phone_numbers": [
+      "4499727875"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Ariana Lozano",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Scarborough",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Ariana Lozano is a recent graduate from St. Lawrence College with a MBA. Skilled in Excel, Leadership, Time Management, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Carter LLC",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Leadership",
+        "Time Management",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Ariana Lozano",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "Unit 1611 Box 7240, DPO AE 43017",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "robertpena@jones.com"
+    ],
+    "phone_numbers": [
+      "+16158657809x134"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "David Jenkins",
+    "college": "George Brown College",
+    "locations": [
+      "Toronto",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "David Jenkins is a recent graduate from George Brown College with a Bachelor of Engineering. Skilled in Leadership, MS Office, Teamwork, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Spence Ltd",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "MS Office",
+        "Teamwork",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "David Jenkins",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "464 Bruce Flat Suite 713, Armstrongshire, UT 39197",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "gregorylynch@harvey-allen.org"
+    ],
+    "phone_numbers": [
+      "3747407482"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Adam Grimes",
+    "college": "Seneca College",
+    "locations": [
+      "Brampton",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Adam Grimes is a recent graduate from Seneca College with a Bachelor of Engineering. Skilled in MS Office, Leadership, Teamwork, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Craig, Sanders and Singleton",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Leadership",
+        "Teamwork",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Adam Grimes",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "32858 Rivas Glens Suite 451, Mccartyberg, IN 89148",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "swall@lawson.com"
+    ],
+    "phone_numbers": [
+      "+13942104709x5214"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Ann Foster",
+    "college": "Sheridan College",
+    "locations": [
+      "Toronto",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Ann Foster is a recent graduate from Sheridan College with a Post Graduation Diploma. Skilled in Communication, Leadership, Excel, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Horton, Fernandez and Matthews",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "Leadership",
+        "Excel",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Ann Foster",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "461 Brandon Camp Suite 711, New Derek, MN 88382",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "gibsonemily@hotmail.com"
+    ],
+    "phone_numbers": [
+      "9651370985x931"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Stacey Pena",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Brampton",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Stacey Pena is a recent graduate from St. Lawrence College with a Master of Science. Skilled in Excel, Communication, Leadership, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Willis and Sons",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Communication",
+        "Leadership",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Stacey Pena",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "1390 Kristin Gardens, Port Anne, WV 73142",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "rcrosby@gmail.com"
+    ],
+    "phone_numbers": [
+      "0015377351585x064"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Charles Lester",
+    "college": "Sheridan College",
+    "locations": [
+      "Mississauga",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Charles Lester is a recent graduate from Sheridan College with a MBA. Skilled in Teamwork, MS Office, Python, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Turner, Schneider and Johnson",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "MS Office",
+        "Python",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Charles Lester",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "177 Palmer Coves, Gordonton, WY 86864",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "michele22@king.com"
+    ],
+    "phone_numbers": [
+      "0539502402"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Dr. Jessica Rodriguez DDS",
+    "college": "Humber College",
+    "locations": [
+      "Toronto",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Dr. Jessica Rodriguez DDS is a recent graduate from Humber College with a Post Graduation Diploma. Skilled in SQL, Teamwork, Excel, MS Office.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Jones-Decker",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Teamwork",
+        "Excel",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Dr. Jessica Rodriguez DDS",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "18367 Robert Views Suite 661, Ronaldview, FL 90524",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "lammarc@gmail.com"
+    ],
+    "phone_numbers": [
+      "2499856984"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Brent Rodgers",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Toronto",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Brent Rodgers is a recent graduate from St. Lawrence College with a Master of Science. Skilled in MS Office, Time Management, SQL, Leadership.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Sandoval, Jones and Figueroa",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Time Management",
+        "SQL",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Brent Rodgers",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "49368 Chelsea Shoals Suite 024, Sandrastad, HI 19277",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "willisanna@santiago-jenkins.biz"
+    ],
+    "phone_numbers": [
+      "0010494519832x7315"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Anna Moreno",
+    "college": "Seneca College",
+    "locations": [
+      "Vancouver",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Anna Moreno is a recent graduate from Seneca College with a Bachelor of Commerce. Skilled in MS Office, Leadership, Time Management, Teamwork.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Dougherty-Saunders",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Leadership",
+        "Time Management",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Anna Moreno",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "3815 Rodriguez Springs Suite 840, South Tracey, AL 27295",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "kchavez@yahoo.com"
+    ],
+    "phone_numbers": [
+      "5991022901x4767"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Donna Wilson",
+    "college": "Seneca College",
+    "locations": [
+      "Mississauga",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Donna Wilson is a recent graduate from Seneca College with a Bachelor of Engineering. Skilled in Excel, MS Office, Time Management, Communication.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Miller, Harrell and Reese",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "MS Office",
+        "Time Management",
+        "Communication"
+      ],
+      "soft_skills": [],
+      "name": "Donna Wilson",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "641 Smith Islands Apt. 975, South Meganbury, OR 52988",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "ythompson@hotmail.com"
+    ],
+    "phone_numbers": [
+      "0013885160607x159"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Richard Jones",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Brampton",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Richard Jones is a recent graduate from St. Lawrence College with a Post Graduation Diploma. Skilled in MS Office, Python, Teamwork, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Wood LLC",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Python",
+        "Teamwork",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Richard Jones",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "995 Hernandez Cliff Suite 744, West Williamport, NV 05430",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "rebeccabailey@mullen.com"
+    ],
+    "phone_numbers": [
+      "4329212779"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Sean Wyatt",
+    "college": "Humber College",
+    "locations": [
+      "Mississauga",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Sean Wyatt is a recent graduate from Humber College with a Post Graduation Diploma. Skilled in Teamwork, MS Office, Leadership, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Shelton-Williams",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "MS Office",
+        "Leadership",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Sean Wyatt",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "182 John Mill Suite 889, West Nathan, MS 54079",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "ycarpenter@hotmail.com"
+    ],
+    "phone_numbers": [
+      "7935978207"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Felicia Rivera",
+    "college": "Sheridan College",
+    "locations": [
+      "Calgary",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Felicia Rivera is a recent graduate from Sheridan College with a Post Graduation Diploma. Skilled in Teamwork, Time Management, Python, MS Office.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Wise, Conley and Stephenson",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Time Management",
+        "Python",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Felicia Rivera",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "81685 Michael Falls Apt. 573, East Eric, WY 13757",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "johnathan92@yahoo.com"
+    ],
+    "phone_numbers": [
+      "9254629148"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "George Miranda",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Mississauga",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "George Miranda is a recent graduate from St. Lawrence College with a Bachelor of Commerce. Skilled in Teamwork, SQL, MS Office, Communication.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Dawson PLC",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "SQL",
+        "MS Office",
+        "Communication"
+      ],
+      "soft_skills": [],
+      "name": "George Miranda",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "59774 Shaw Manor Apt. 392, Brettfort, MN 73185",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "lmoore@wise.info"
+    ],
+    "phone_numbers": [
+      "6537947383"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Dominique Hines",
+    "college": "Humber College",
+    "locations": [
+      "Brampton",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Dominique Hines is a recent graduate from Humber College with a Bachelor of Commerce. Skilled in Python, SQL, Time Management, Leadership.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "West-Smith",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "SQL",
+        "Time Management",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Dominique Hines",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "3051 Moody Dam, West Samanthafort, DC 92977",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "jwhitehead@yahoo.com"
+    ],
+    "phone_numbers": [
+      "3750606853"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "David Conley",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Mississauga",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "David Conley is a recent graduate from St. Lawrence College with a Bachelor of Engineering. Skilled in Communication, Time Management, Leadership, Teamwork.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Stephens, Hartman and Romero",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "Time Management",
+        "Leadership",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "David Conley",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "246 Christina Garden, Lopezland, MN 09371",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "parsonsjohn@gmail.com"
+    ],
+    "phone_numbers": [
+      "3697117980"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Shane Williams",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Toronto",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Shane Williams is a recent graduate from St. Lawrence College with a Post Graduation Diploma. Skilled in Python, Excel, Communication, Teamwork.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Johnson-Lucas",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Excel",
+        "Communication",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Shane Williams",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "704 Bradley Flats, West Sarahhaven, ND 62550",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "jon05@gmail.com"
+    ],
+    "phone_numbers": [
+      "3195205852x772"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Scott Williams",
+    "college": "Seneca College",
+    "locations": [
+      "Scarborough",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Scott Williams is a recent graduate from Seneca College with a Post Graduation Diploma. Skilled in Python, Communication, MS Office, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Robbins, Jackson and Wallace",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Communication",
+        "MS Office",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Scott Williams",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "Unit 2845 Box 1154, DPO AA 58948",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "david56@yahoo.com"
+    ],
+    "phone_numbers": [
+      "0017652775841x6169"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Nicholas Buck",
+    "college": "Sheridan College",
+    "locations": [
+      "Vancouver",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Nicholas Buck is a recent graduate from Sheridan College with a MBA. Skilled in Leadership, Excel, MS Office, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Horne Inc",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Excel",
+        "MS Office",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Nicholas Buck",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "275 Wallace Club, New Michael, SD 37029",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "danielle01@hotmail.com"
+    ],
+    "phone_numbers": [
+      "+16582029702x1355"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Kathryn Hughes",
+    "college": "Seneca College",
+    "locations": [
+      "Brampton",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Kathryn Hughes is a recent graduate from Seneca College with a Bachelor of Engineering. Skilled in Teamwork, MS Office, Time Management, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Parker Ltd",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "MS Office",
+        "Time Management",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Kathryn Hughes",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "25831 Laura Freeway Suite 058, Tannerside, RI 11801",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "kimberly73@mitchell.com"
+    ],
+    "phone_numbers": [
+      "1727155188"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Kelly Hammond",
+    "college": "George Brown College",
+    "locations": [
+      "Mississauga",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Kelly Hammond is a recent graduate from George Brown College with a Master of Science. Skilled in Time Management, Communication, MS Office, SQL.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Williams, Shields and Miller",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Time Management",
+        "Communication",
+        "MS Office",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Kelly Hammond",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "43842 Mendez Course Apt. 992, Lake Claudia, PA 44753",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "teresaday@owens-holmes.com"
+    ],
+    "phone_numbers": [
+      "0018922680182x42253"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Patricia Baker",
+    "college": "Seneca College",
+    "locations": [
+      "Scarborough",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Patricia Baker is a recent graduate from Seneca College with a MBA. Skilled in MS Office, Excel, Communication, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Lin-Barnes",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Excel",
+        "Communication",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Patricia Baker",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "Brampton",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "bmontgomery@small-gardner.com"
+    ],
+    "phone_numbers": [
+      "364.710.2767x7359"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Stephanie Li",
+    "college": "Sheridan College",
+    "locations": [
+      "Toronto",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Stephanie Li is a recent graduate from Sheridan College with a Bachelor of Engineering. Skilled in Teamwork, MS Office, SQL, Communication.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Tran-Jones",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "MS Office",
+        "SQL",
+        "Communication"
+      ],
+      "soft_skills": [],
+      "name": "Stephanie Li",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "748 Melanie Meadows Apt. 456, Brandonton, OH 26014",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "kathrynjimenez@hotmail.com"
+    ],
+    "phone_numbers": [
+      "747.016.8733x950"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Pamela Ramirez",
+    "college": "Sheridan College",
+    "locations": [
+      "Scarborough",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Pamela Ramirez is a recent graduate from Sheridan College with a MBA. Skilled in Excel, Teamwork, SQL, Python.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Erickson-Evans",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Teamwork",
+        "SQL",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Pamela Ramirez",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "825 Martin Ridges, Brittneyhaven, NY 70275",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "theresalong@grant-diaz.com"
+    ],
+    "phone_numbers": [
+      "986.800.0257"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Isabella Nunez",
+    "college": "Seneca College",
+    "locations": [
+      "Toronto",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Isabella Nunez is a recent graduate from Seneca College with a Bachelor of Engineering. Skilled in Python, Teamwork, Excel, MS Office.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Hoffman Ltd",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Teamwork",
+        "Excel",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Isabella Nunez",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "07562 Vaughn Loop, Salaston, DC 68485",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "laura09@yahoo.com"
+    ],
+    "phone_numbers": [
+      "9930972896x230"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "James Frye",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Vancouver",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "James Frye is a recent graduate from St. Lawrence College with a Bachelor of Engineering. Skilled in MS Office, Time Management, Communication, Teamwork.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Clayton LLC",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Time Management",
+        "Communication",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "James Frye",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "1986 Cardenas Trail Apt. 404, West Sandraview, NJ 28548",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "amy49@yahoo.com"
+    ],
+    "phone_numbers": [
+      "348.434.4375"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Melissa Taylor",
+    "college": "George Brown College",
+    "locations": [
+      "Brampton",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Melissa Taylor is a recent graduate from George Brown College with a Bachelor of Engineering. Skilled in Communication, MS Office, Leadership, Time Management.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Intern",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Lopez-Curry",
+          "description": "Worked as an intern in the IT department.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "MS Office",
+        "Leadership",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Melissa Taylor",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "PSC 1938, Box 0262, APO AE 52535",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "brentstein@little.com"
+    ],
+    "phone_numbers": [
+      "5712082677x34540"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Donna Johnson",
+    "college": "Humber College",
+    "locations": [
+      "Vancouver",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Donna Johnson recently completed a MBA at Humber College. Proficient in Teamwork, Communication, MS Office, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Young-Molina",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Communication",
+        "MS Office",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Donna Johnson",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "9329 Wilcox Passage Suite 161, East Thomas, AL 34682",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "hebertmatthew@yahoo.com"
+    ],
+    "phone_numbers": [
+      "+18872874315x2742"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Elizabeth Sharp",
+    "college": "George Brown College",
+    "locations": [
+      "Calgary",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Elizabeth Sharp recently completed a MBA at George Brown College. Proficient in SQL, Excel, Time Management, MS Office with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Martin PLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Excel",
+        "Time Management",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Elizabeth Sharp",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "339 Alicia Pines Suite 191, Port Amyhaven, OK 70842",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "desiree30@wilson.net"
+    ],
+    "phone_numbers": [
+      "0014145933272x795"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Michael Love",
+    "college": "Sheridan College",
+    "locations": [
+      "Scarborough",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Michael Love recently completed a Bachelor of Commerce at Sheridan College. Proficient in Leadership, Time Management, Communication, MS Office with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Stuart, Brooks and Vance",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Time Management",
+        "Communication",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Michael Love",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "65180 Valerie Mountains, West Robertberg, SD 96090",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "nolansean@gmail.com"
+    ],
+    "phone_numbers": [
+      "286.790.8740x640"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Thomas Bennett",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Mississauga",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Thomas Bennett recently completed a Post Graduation Diploma at St. Lawrence College. Proficient in MS Office, Leadership, Excel, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Webster Inc",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Leadership",
+        "Excel",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Thomas Bennett",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "43106 John Cliff Apt. 907, East Joyfurt, IN 71248",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "desireebailey@haney.net"
+    ],
+    "phone_numbers": [
+      "3004786863"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Wyatt Young",
+    "college": "George Brown College",
+    "locations": [
+      "Brampton",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Wyatt Young recently completed a MBA at George Brown College. Proficient in Communication, Time Management, Excel, Python with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Scott LLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "Time Management",
+        "Excel",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Wyatt Young",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "2873 Kevin Station Apt. 708, Faulknerside, DC 51411",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "joel28@gmail.com"
+    ],
+    "phone_numbers": [
+      "4408926870x56856"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Tammy Boone",
+    "college": "Seneca College",
+    "locations": [
+      "Calgary",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Tammy Boone recently completed a Master of Science at Seneca College. Proficient in SQL, Python, Teamwork, MS Office with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Lang Ltd",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Python",
+        "Teamwork",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Tammy Boone",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "India",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "brettbennett@morrison.org"
+    ],
+    "phone_numbers": [
+      "0018373540331x7393"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Ryan Rocha",
+    "college": "Seneca College",
+    "locations": [
+      "Calgary",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Ryan Rocha recently completed a MBA at Seneca College. Proficient in Time Management, Excel, Leadership, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Bernard, Warren and Combs",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Time Management",
+        "Excel",
+        "Leadership",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Ryan Rocha",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "8547 Murray Street, Garyside, HI 71559",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "robert93@hotmail.com"
+    ],
+    "phone_numbers": [
+      "0489964235"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Robert Williams",
+    "college": "George Brown College",
+    "locations": [
+      "Calgary",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Robert Williams recently completed a Master of Science at George Brown College. Proficient in SQL, Communication, MS Office, Excel with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Norton-Miller",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Communication",
+        "MS Office",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Robert Williams",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "London",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "otaylor@jones.com"
+    ],
+    "phone_numbers": [
+      "875.099.7700"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Judy Sanchez",
+    "college": "Seneca College",
+    "locations": [
+      "Brampton",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Judy Sanchez recently completed a Bachelor of Engineering at Seneca College. Proficient in Teamwork, MS Office, Communication, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Martin-Allen",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "MS Office",
+        "Communication",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Judy Sanchez",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "48902 Smith Fords, Port Lori, MO 10585",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "gabriella10@sullivan.net"
+    ],
+    "phone_numbers": [
+      "002.176.5918x0339"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Jasmine Mosley",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Mississauga",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Jasmine Mosley recently completed a Master of Science at St. Lawrence College. Proficient in Excel, Time Management, MS Office, SQL with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Bowers, Moore and Price",
+          "description": "Completed training in software and business processes.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Time Management",
+        "MS Office",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Jasmine Mosley",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "Toronto",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "icampos@hotmail.com"
+    ],
+    "phone_numbers": [
+      "0011850163159x9965"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Brandon Hahn",
+    "college": "George Brown College",
+    "locations": [
+      "Vancouver",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Brandon Hahn recently completed a Bachelor of Engineering at George Brown College. Proficient in Excel, Python, MS Office, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Brown Group",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Python",
+        "MS Office",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Brandon Hahn",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "0466 Jenny Points Apt. 982, Jacksonview, KY 65135",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "kathleen12@gmail.com"
+    ],
+    "phone_numbers": [
+      "6788861015"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Elijah Patton",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Brampton",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Elijah Patton recently completed a Bachelor of Commerce at St. Lawrence College. Proficient in Python, Communication, Excel, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Faulkner-Casey",
+          "description": "Completed training in software and business processes.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Communication",
+        "Excel",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Elijah Patton",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "924 Morrison Square Apt. 752, Novakport, UT 83456",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "sheryl79@hotmail.com"
+    ],
+    "phone_numbers": [
+      "712.406.5965"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Douglas Hartman",
+    "college": "Sheridan College",
+    "locations": [
+      "Mississauga",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Douglas Hartman recently completed a Bachelor of Commerce at Sheridan College. Proficient in Leadership, Communication, SQL, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Woodard, Herrera and Little",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Communication",
+        "SQL",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Douglas Hartman",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "2661 Ewing Neck, Fergusonchester, AZ 47625",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "frederickjames@hotmail.com"
+    ],
+    "phone_numbers": [
+      "8073741672"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Randy Sandoval",
+    "college": "Humber College",
+    "locations": [
+      "Calgary",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Randy Sandoval recently completed a MBA at Humber College. Proficient in SQL, MS Office, Teamwork, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Mueller-Boyd",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "MS Office",
+        "Teamwork",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Randy Sandoval",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "982 Cuevas Orchard Apt. 461, Port Sheliaberg, ME 45467",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "deborahwilliams@hotmail.com"
+    ],
+    "phone_numbers": [
+      "+16561014388x89937"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Brent Bowen",
+    "college": "Sheridan College",
+    "locations": [
+      "Calgary",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Brent Bowen recently completed a Bachelor of Commerce at Sheridan College. Proficient in MS Office, Time Management, Leadership, SQL with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Wilson-Lambert",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Time Management",
+        "Leadership",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Brent Bowen",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "0937 Price Squares Apt. 341, Port Monicaburgh, MD 26331",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "carlos01@gmail.com"
+    ],
+    "phone_numbers": [
+      "1238282586x73622"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Vincent Edwards MD",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Brampton",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Vincent Edwards MD recently completed a Bachelor of Engineering at St. Lawrence College. Proficient in Leadership, SQL, Communication, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Jackson, Roberts and Lopez",
+          "description": "Completed training in software and business processes.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "SQL",
+        "Communication",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Vincent Edwards MD",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "669 Bailey Manors, South Cynthia, SD 23207",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "baileymegan@hotmail.com"
+    ],
+    "phone_numbers": [
+      "4991251341"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Lisa Glenn",
+    "college": "George Brown College",
+    "locations": [
+      "Toronto",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Lisa Glenn recently completed a Bachelor of Engineering at George Brown College. Proficient in Python, Time Management, Teamwork, SQL with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Evans Inc",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Time Management",
+        "Teamwork",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Lisa Glenn",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "788 Ashley Grove Suite 807, South Curtis, SD 98981",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "ytaylor@wagner.biz"
+    ],
+    "phone_numbers": [
+      "0017721903404x384"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Gregory Montoya",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Toronto",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Gregory Montoya recently completed a Post Graduation Diploma at St. Lawrence College. Proficient in Leadership, Excel, Python, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Dawson and Sons",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Excel",
+        "Python",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Gregory Montoya",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "825 Roberts Grove Apt. 260, Michelleberg, DC 33226",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "rowejoel@hotmail.com"
+    ],
+    "phone_numbers": [
+      "0015962923309"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Megan Burns",
+    "college": "Seneca College",
+    "locations": [
+      "Calgary",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Megan Burns recently completed a MBA at Seneca College. Proficient in Leadership, SQL, Time Management, Communication with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Harris-Barker",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "SQL",
+        "Time Management",
+        "Communication"
+      ],
+      "soft_skills": [],
+      "name": "Megan Burns",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "74545 Ashlee Oval Suite 001, Smithburgh, NH 00589",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "ebrooks@hotmail.com"
+    ],
+    "phone_numbers": [
+      "0011684577590x17518"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Matthew Moore",
+    "college": "Sheridan College",
+    "locations": [
+      "Calgary",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Matthew Moore recently completed a Bachelor of Commerce at Sheridan College. Proficient in Communication, SQL, Python, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "May Ltd",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "SQL",
+        "Python",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Matthew Moore",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "05162 Jones Lights Apt. 115, Nicoleberg, WI 99218",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "penajohn@yahoo.com"
+    ],
+    "phone_numbers": [
+      "+12064361103x71293"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Joseph Smith",
+    "college": "Sheridan College",
+    "locations": [
+      "Brampton",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Joseph Smith recently completed a MBA at Sheridan College. Proficient in MS Office, Teamwork, Time Management, SQL with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Lucas-Bowers",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Teamwork",
+        "Time Management",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Joseph Smith",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "89994 Melanie Shoals, Jamiehaven, WA 51848",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "nbell@goodman.info"
+    ],
+    "phone_numbers": [
+      "112.196.5652"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Cynthia Cruz",
+    "college": "Humber College",
+    "locations": [
+      "Toronto",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Cynthia Cruz recently completed a Bachelor of Commerce at Humber College. Proficient in Python, Communication, Teamwork, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Herrera Group",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Communication",
+        "Teamwork",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Cynthia Cruz",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "00684 Henderson Locks Apt. 889, West Christopher, NY 27134",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "elittle@oneal.com"
+    ],
+    "phone_numbers": [
+      "6965827109"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Pamela Santos",
+    "college": "Sheridan College",
+    "locations": [
+      "Toronto",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Pamela Santos recently completed a Bachelor of Engineering at Sheridan College. Proficient in SQL, Python, Leadership, Communication with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Richardson LLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Python",
+        "Leadership",
+        "Communication"
+      ],
+      "soft_skills": [],
+      "name": "Pamela Santos",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "52410 Roman Groves Apt. 491, Gibsonstad, NM 74803",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "holly30@miller.com"
+    ],
+    "phone_numbers": [
+      "990.421.0202x758"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Stephanie Craig",
+    "college": "Seneca College",
+    "locations": [
+      "Mississauga",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Stephanie Craig recently completed a MBA at Seneca College. Proficient in Teamwork, SQL, Excel, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Carter LLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "SQL",
+        "Excel",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Stephanie Craig",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "38061 Cline Trail, Markside, AL 48855",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "joycesmith@sanchez.com"
+    ],
+    "phone_numbers": [
+      "2208635365x4195"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Dana Richardson",
+    "college": "Sheridan College",
+    "locations": [
+      "Scarborough",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Dana Richardson recently completed a Bachelor of Engineering at Sheridan College. Proficient in MS Office, Communication, Leadership, SQL with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Davis, Anderson and Wilkins",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Communication",
+        "Leadership",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Dana Richardson",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "38367 Teresa Divide Suite 103, Haynesstad, WA 11629",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "jessicapayne@gmail.com"
+    ],
+    "phone_numbers": [
+      "0603850506"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Keith Graham",
+    "college": "Sheridan College",
+    "locations": [
+      "Scarborough",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Keith Graham recently completed a MBA at Sheridan College. Proficient in SQL, Excel, Communication, MS Office with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Byrd LLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Excel",
+        "Communication",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Keith Graham",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "74741 Eric Spur Suite 903, Eddiebury, MO 67801",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "kellyrosales@haynes-moss.com"
+    ],
+    "phone_numbers": [
+      "431.329.1212x775"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Carrie Crane",
+    "college": "Humber College",
+    "locations": [
+      "Scarborough",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Carrie Crane recently completed a Bachelor of Engineering at Humber College. Proficient in Teamwork, SQL, Python, Excel with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Johnson-Vega",
+          "description": "Completed training in software and business processes.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "SQL",
+        "Python",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Carrie Crane",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "13721 Martinez Mountain, East Sandrachester, VA 52274",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "codygarcia@gmail.com"
+    ],
+    "phone_numbers": [
+      "0032365199"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Daniel Lopez",
+    "college": "Seneca College",
+    "locations": [
+      "Brampton",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Daniel Lopez recently completed a MBA at Seneca College. Proficient in Leadership, Time Management, SQL, Excel with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "White-Flores",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Time Management",
+        "SQL",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Daniel Lopez",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "806 Castillo Tunnel, Coopershire, MD 51406",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "cstephenson@hotmail.com"
+    ],
+    "phone_numbers": [
+      "+19347687014x626"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Steven Osborne",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Mississauga",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Steven Osborne recently completed a Bachelor of Engineering at St. Lawrence College. Proficient in Leadership, Communication, Time Management, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Fox Inc",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Time Management",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Steven Osborne",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "929 Mary Valleys Suite 842, Johnsonton, PA 29180",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "xmoreno@key.com"
+    ],
+    "phone_numbers": [
+      "8039652239x559"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Lucas Drake",
+    "college": "Sheridan College",
+    "locations": [
+      "Scarborough",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Lucas Drake recently completed a Bachelor of Commerce at Sheridan College. Proficient in Time Management, Communication, SQL, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Rush PLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Time Management",
+        "Communication",
+        "SQL",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Lucas Drake",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "5226 Banks Extensions Suite 392, Parkerport, HI 96030",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "samantharichard@yahoo.com"
+    ],
+    "phone_numbers": [
+      "0292185156"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Zachary Sanford",
+    "college": "Humber College",
+    "locations": [
+      "Toronto",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Zachary Sanford recently completed a Master of Science at Humber College. Proficient in Time Management, Python, SQL, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Perez, Hayes and Lloyd",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Time Management",
+        "Python",
+        "SQL",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Zachary Sanford",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "67626 Macias Keys, Garciafort, OK 85824",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "carriemccall@walker.com"
+    ],
+    "phone_numbers": [
+      "1355215704x33154"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Alejandro Green",
+    "college": "Seneca College",
+    "locations": [
+      "Scarborough",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Alejandro Green recently completed a MBA at Seneca College. Proficient in Teamwork, Python, MS Office, Communication with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Jackson LLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Python",
+        "MS Office",
+        "Communication"
+      ],
+      "soft_skills": [],
+      "name": "Alejandro Green",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "443 Brandon Ports Suite 205, South Christopherfort, CT 03874",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "petersonpamela@dennis.com"
+    ],
+    "phone_numbers": [
+      "9970629620x15336"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Kara Wilson",
+    "college": "Seneca College",
+    "locations": [
+      "Toronto",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Kara Wilson recently completed a Bachelor of Engineering at Seneca College. Proficient in Communication, SQL, Python, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Armstrong-Young",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "SQL",
+        "Python",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Kara Wilson",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "49021 Elizabeth Valley Suite 938, Port Paulhaven, ND 90556",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "qburns@yahoo.com"
+    ],
+    "phone_numbers": [
+      "8625652704"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "James Nash",
+    "college": "Seneca College",
+    "locations": [
+      "Toronto",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "James Nash recently completed a MBA at Seneca College. Proficient in Teamwork, Leadership, Excel, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Buchanan PLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Leadership",
+        "Excel",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "James Nash",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "PSC 1168, Box 6854, APO AP 60552",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "davidtodd@rush.com"
+    ],
+    "phone_numbers": [
+      "206.163.2945"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Rachael Rodriguez",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Brampton",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Rachael Rodriguez recently completed a Bachelor of Engineering at St. Lawrence College. Proficient in MS Office, Leadership, Excel, Python with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Mccann-Ramos",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Leadership",
+        "Excel",
+        "Python"
+      ],
+      "soft_skills": [],
+      "name": "Rachael Rodriguez",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "65307 Prince Brooks Suite 444, Garrisonville, IN 18115",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "ashleyaguilar@buckley.com"
+    ],
+    "phone_numbers": [
+      "8564679970x2462"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Debra Butler",
+    "college": "Seneca College",
+    "locations": [
+      "Scarborough",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Debra Butler recently completed a Bachelor of Commerce at Seneca College. Proficient in Leadership, Python, Teamwork, SQL with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Seneca College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Burns-Griffin",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Python",
+        "Teamwork",
+        "SQL"
+      ],
+      "soft_skills": [],
+      "name": "Debra Butler",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "30705 Joshua View, Wagnerville, AK 32212",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "scottmcintyre@figueroa-malone.com"
+    ],
+    "phone_numbers": [
+      "8214862890"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Karen Arnold",
+    "college": "George Brown College",
+    "locations": [
+      "Brampton",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Karen Arnold recently completed a MBA at George Brown College. Proficient in Excel, Communication, Teamwork, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "King-Owens",
+          "description": "Completed training in software and business processes.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Communication",
+        "Teamwork",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Karen Arnold",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "007 Deborah Rapid Apt. 349, Jenniferview, MS 46207",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "marygreen@hotmail.com"
+    ],
+    "phone_numbers": [
+      "4060293333"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Samantha Sanders",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Calgary",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Samantha Sanders recently completed a Master of Science at St. Lawrence College. Proficient in Teamwork, Time Management, Python, MS Office with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Glover, Knox and Powers",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Time Management",
+        "Python",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Samantha Sanders",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "520 Bright Green Suite 660, West Jessica, TX 70576",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "hunteileen@hoffman-wheeler.com"
+    ],
+    "phone_numbers": [
+      "1715454443x2830"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Sarah Pittman",
+    "college": "Sheridan College",
+    "locations": [
+      "Mississauga",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Sarah Pittman recently completed a Post Graduation Diploma at Sheridan College. Proficient in Excel, Leadership, Time Management, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Thomas-Huffman",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Excel",
+        "Leadership",
+        "Time Management",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Sarah Pittman",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "3816 Gutierrez Ways, East Victoria, MT 75133",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "connor24@stokes.com"
+    ],
+    "phone_numbers": [
+      "+11353465549x4717"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Bobby Cook",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Scarborough",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Bobby Cook recently completed a Master of Science at St. Lawrence College. Proficient in SQL, Python, Time Management, MS Office with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Jackson-Colon",
+          "description": "Completed training in software and business processes.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Python",
+        "Time Management",
+        "MS Office"
+      ],
+      "soft_skills": [],
+      "name": "Bobby Cook",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "NY",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "cynthia07@clark-ayala.org"
+    ],
+    "phone_numbers": [
+      "0012712966667x60083"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Earl Luna",
+    "college": "Sheridan College",
+    "locations": [
+      "Brampton",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Earl Luna recently completed a Master of Science at Sheridan College. Proficient in Leadership, Time Management, MS Office, Communication with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Economics",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "King, Miles and Harris",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Time Management",
+        "MS Office",
+        "Communication",
+        "Project Management",
+        "Primavera",
+        "MS Project",
+        "Civil Design Software",
+        "Cost Estimating",
+        "PlanSwift"
+      ],
+      "soft_skills": [],
+      "name": "Earl Luna",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "Canada",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "ibarron@yahoo.com"
+    ],
+    "phone_numbers": [
+      "532.603.3230x9821"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Alexandra Fisher",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Scarborough",
+      "Vancouver"
+    ],
+    "full_output": {
+      "summary": "Alexandra Fisher recently completed a Master of Science at St. Lawrence College. Proficient in Teamwork, Leadership, Python, Excel with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Master of Science",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Cummings Inc",
+          "description": "Completed training in software and business processes.",
+          "location": "Vancouver",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Leadership",
+        "Python",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Alexandra Fisher",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "753 Alexander Corners, Port Audreyfort, CO 67571",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Master of Science",
+    "emails": [
+      "cindy26@hunt.com"
+    ],
+    "phone_numbers": [
+      "1173934835x6420"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Maria Bryant",
+    "college": "George Brown College",
+    "locations": [
+      "Vancouver",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Maria Bryant recently completed a Bachelor of Engineering at George Brown College. Proficient in SQL, Leadership, Python, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Vancouver",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Wilson Ltd",
+          "description": "Completed training in software and business processes.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Leadership",
+        "Python",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Maria Bryant",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "5216 Rivers Groves, Vaughnfort, MT 85546",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "steven12@gmail.com"
+    ],
+    "phone_numbers": [
+      "5561100225x5794"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Vicki Richard",
+    "college": "Humber College",
+    "locations": [
+      "Scarborough",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Vicki Richard recently completed a Bachelor of Commerce at Humber College. Proficient in MS Office, SQL, Time Management, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Combs PLC",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "SQL",
+        "Time Management",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Vicki Richard",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "588 Ryan Stream, South Michael, SD 50947",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "epruitt@gregory.com"
+    ],
+    "phone_numbers": [
+      "+10277167014x508"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Lisa Smith",
+    "college": "Humber College",
+    "locations": [
+      "Toronto",
+      "Mississauga"
+    ],
+    "full_output": {
+      "summary": "Lisa Smith recently completed a Bachelor of Commerce at Humber College. Proficient in SQL, Teamwork, Time Management, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Humber College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Commerce",
+          "location": "Toronto",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "English"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Pena Group",
+          "description": "Completed training in software and business processes.",
+          "location": "Mississauga",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Teamwork",
+        "Time Management",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Lisa Smith",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "0166 Angela Alley, Port Cassandraport, NY 74207",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Commerce",
+    "emails": [
+      "kchristian@walton.com"
+    ],
+    "phone_numbers": [
+      "4083866317x79717"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Heidi Brown",
+    "college": "Sheridan College",
+    "locations": [
+      "Calgary",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Heidi Brown recently completed a MBA at Sheridan College. Proficient in MS Office, Leadership, Communication, Excel with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Calgary",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "Punjabi",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Williams-Schultz",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Leadership",
+        "Communication",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Heidi Brown",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "2614 Jacob Walk, Lewisborough, MA 14626",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "xrivera@greene.info"
+    ],
+    "phone_numbers": [
+      "1305548851"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Barbara Snow",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Scarborough",
+      "Brampton"
+    ],
+    "full_output": {
+      "summary": "Barbara Snow recently completed a Master of Science at St. Lawrence College. Proficient in SQL, Communication, Time Management, Leadership with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "B.tech.",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Joseph-Walls",
+          "description": "Completed training in software and business processes.",
+          "location": "Brampton",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Communication",
+        "Time Management",
+        "Leadership"
+      ],
+      "soft_skills": [],
+      "name": "Barbara Snow",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "France",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "B.tech.",
+    "emails": [
+      "tamarasmith@hotmail.com"
+    ],
+    "phone_numbers": [
+      "8697829221"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Christina Weber",
+    "college": "St. Lawrence College",
+    "locations": [
+      "Scarborough",
+      "Calgary"
+    ],
+    "full_output": {
+      "summary": "Christina Weber recently completed a Bachelor of Engineering at St. Lawrence College. Proficient in MS Office, Excel, Leadership, Teamwork with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "St. Lawrence College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Bachelor of Engineering",
+          "location": "Scarborough",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Johnson, Cervantes and Garcia",
+          "description": "Completed training in software and business processes.",
+          "location": "Calgary",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "MS Office",
+        "Excel",
+        "Leadership",
+        "Teamwork"
+      ],
+      "soft_skills": [],
+      "name": "Christina Weber",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "81062 Ellen Flats Suite 244, Port Bryan, LA 27239",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Bachelor of Engineering",
+    "emails": [
+      "samantha22@hotmail.com"
+    ],
+    "phone_numbers": [
+      "+15158799684"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Nancy Hancock",
+    "college": "Sheridan College",
+    "locations": [
+      "Brampton",
+      "Toronto"
+    ],
+    "full_output": {
+      "summary": "Nancy Hancock recently completed a MBA at Sheridan College. Proficient in Leadership, Teamwork, Communication, Excel with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "Sheridan College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "MBA",
+          "location": "Brampton",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "French",
+        "Punjabi"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Ramirez-Baker",
+          "description": "Completed training in software and business processes.",
+          "location": "Toronto",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Leadership",
+        "Teamwork",
+        "Communication",
+        "Excel"
+      ],
+      "soft_skills": [],
+      "name": "Nancy Hancock",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "347 Tonya Club, East Jill, MS 05827",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "MBA",
+    "emails": [
+      "williamrobles@hotmail.com"
+    ],
+    "phone_numbers": [
+      "0666580043x9735"
+    ]
+  },
+  {
+    "project_count": 0.0,
+    "designation": "",
+    "name": "Ryan Smith",
+    "college": "George Brown College",
+    "locations": [
+      "Mississauga",
+      "Scarborough"
+    ],
+    "full_output": {
+      "summary": "Ryan Smith recently completed a Post Graduation Diploma at George Brown College. Proficient in Communication, SQL, Leadership, Time Management with excellent communication skills.",
+      "certifications": [],
+      "social_work": [],
+      "education": [
+        {
+          "school": "George Brown College",
+          "endDate": "2024",
+          "maximum_grade": "",
+          "degree": "Post Graduation Diploma",
+          "location": "Mississauga",
+          "ID": 0.0,
+          "grade_received": "",
+          "field_of_study": "General Studies",
+          "startDate": "2022"
+        }
+      ],
+      "projects": [],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "experiences": [
+        {
+          "role_name": "Trainee",
+          "skillsUsed": [],
+          "endDate": "2023",
+          "company_name": "Herrera, Davis and Walker",
+          "description": "Completed training in software and business processes.",
+          "location": "Scarborough",
+          "links": "",
+          "startDate": "2022"
+        }
+      ],
+      "skills": [
+        "Communication",
+        "SQL",
+        "Leadership",
+        "Time Management"
+      ],
+      "soft_skills": [],
+      "name": "Ryan Smith",
+      "position": "",
+      "interests": [],
+      "achievements_and_awards": [],
+      "publications": []
+    },
+    "current_location": "USS Hartman, FPO AE 55017",
+    "graduation_year": 2024.0,
+    "experience_count": 2.0,
+    "degree": "Post Graduation Diploma",
+    "emails": [
+      "billmcfarland@hotmail.com"
+    ],
+    "phone_numbers": [
+      "9479851583"
+    ]
+  }
+]

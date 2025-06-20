@@ -1,27 +1,32 @@
 {
-  "job_id": "J12345",
-  "job_title": "Software Developer",
-  "company_name": "ABC Tech Pvt Ltd",
-  "number_of_openings": 3,
+  "job_id": "J99999",
+  "job_title": "Project Planning & Scheduling Engineer",
+  "company_name": "InfraBuild Canada",
+  "number_of_openings": 1,
   "employment_type": "Full-time",
   "experience_requirements": 2,
   "min_experience": 2,
-  "location": "Delhi",
-  "education_requirements": "B. Tech",
-  "preferred_education": "B. Tech",
+  "location": "Toronto",
+  "education_requirements": "M.Sc. Civil Engineering",
+  "preferred_education": "M.Sc.",
   "preferred_companies": [
-    "Google",
-    "TCS"
+    "Internway",
+    "Dreams Builder"
   ],
   "skills_required": [
-    "Java",
-    "Spring Boot"
+    "Project Management",
+    "Primavera",
+    "MS Project",
+    "Civil Design Software",
+    "Cost Estimating",
+    "PlanSwift"
   ],
   "spoken_languages": [
     "English",
-    "Hindi"
+    "Hindi",
+    "Punjabi"
   ],
-  "salary": "\u20b98-12 LPA",
+  "salary": "\u20b910-15 LPA",
   "joining_date": "2025-07-01",
   "shift_timings": "9 AM - 6 PM"
 }
