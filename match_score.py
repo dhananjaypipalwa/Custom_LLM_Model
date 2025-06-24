@@ -5,6 +5,7 @@ from dateutil import parser
 from geopy.distance import geodesic
 import pandas as pd
 from rapidfuzz import process
+from rapidfuzz import fuzz
 
 # === Configurable Weights ===
 WEIGHTS = {
@@ -87,7 +88,7 @@ def score_location_static(candidate_locs, job_loc):
                 return 0.3
 
         if job_country and cand_country and job_country == cand_country:
-            return 0.5
+            return 0.3
 
     return 0.0
 
@@ -193,16 +194,25 @@ def score_education(candidate_edu_list, model, preferred_edu_vec):
     except:
         return 0.0
 
-def score_languages(candidate_langs, required_langs):
+
+
+
+def score_languages(candidate_langs, required_langs, threshold=80):
     if not candidate_langs or not required_langs:
         return 0.0
-    matched = [lang for lang in required_langs if any(lang.lower() in c.lower() for c in candidate_langs)]
+
+    matched = [
+        lang for lang in required_langs
+        if any(fuzz.partial_ratio(lang.lower(), c.lower()) >= threshold for c in candidate_langs)
+    ]
+
     match_ratio = len(matched) / len(required_langs)
     if match_ratio == 1.0:
         return 5.0
     elif match_ratio >= 0.5:
         return 2.5
     return 0.0
+
 
 def match_resume_dict(resume, job_params, model, job_skills_vecs, job_title_vec, preferred_edu_vec):
     full = resume.get("full_output", {})
