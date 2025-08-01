@@ -1,0 +1,84 @@
+{
+  "project_count": 0.0,
+  "designation": "AC Technician",
+  "name": "Ziyaul Hoque",
+  "college": "Higher Secondary School",
+  "locations": [
+    "Feni, Bangladesh",
+    "Dubai",
+    "India",
+    "Canada"
+  ],
+  "full_output": {
+    "summary": "Dedicated professional with over 3 years of work experience. Solid team player with positive demeanor and proven skills in establishing rapport with clients. Committed to maintaining professional relationships to increase profitability and drive business results.",
+    "certifications": [],
+    "social_work": [],
+    "education": [
+      {
+        "school": "Higher Secondary School",
+        "endDate": "2019",
+        "maximum_grade": "",
+        "degree": "Certificate",
+        "location": "Feni, Bangladesh",
+        "ID": 0.0,
+        "grade_received": "",
+        "field_of_study": "",
+        "startDate": ""
+      }
+    ],
+    "projects": [],
+    "languages": [
+      "Bengali",
+      "Hindi",
+      "English"
+    ],
+    "experiences": [
+      {
+        "role_name": "AC Technician",
+        "skillsUsed": [],
+        "endDate": "December 2023",
+        "company_name": "Madar Alsalemah",
+        "description": "Diagnosed, repaired, and maintained HVAC systems, ensuring efficient operation. Installed new units, followed safety protocols, and kept detailed service records. Consistently met service deadlines in a fast-paced environment.",
+        "location": "Dubai",
+        "links": "",
+        "startDate": "March 2021"
+      },
+      {
+        "role_name": "AC Technician",
+        "skillsUsed": [],
+        "endDate": "December 2021",
+        "company_name": "CGC",
+        "description": "Performed troubleshooting, maintenance, and repairs on HVAC systems to ensure optimal functionality. Installed air conditioning units, adhered to safety standards, and completed tasks efficiently. Managed service documentation and consistently met tight schedules in a dynamic work environment.",
+        "location": "Dubai",
+        "links": "",
+        "startDate": "Jun 2020"
+      }
+    ],
+    "skills": [
+      "Air Conditioner Technician",
+      "Using Tools and Machines",
+      "Labeling and Sorting",
+      "Cleaning"
+    ],
+    "soft_skills": [
+      "Communication skills",
+      "Problem solving",
+      "Time management",
+      "Adaptability",
+      "Teamwork"
+    ],
+    "name": "Ziyaul Hoque",
+    "position": "",
+    "interests": [],
+    "achievements_and_awards": [],
+    "publications": []
+  },
+  "current_location": "Unit 339, 39 Danforth Rd Scarborough, ON, M1L 0J6",
+  "graduation_year": 2019.0,
+  "experience_count": 2.0,
+  "degree": "Certificate",
+  "emails": [],
+  "phone_numbers": [
+    "14376029300"
+  ]
+}
