@@ -1,22 +1,9 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
 import json
 import os
 
-model_id = "mistralai/Mistral-7B-Instruct-v0.1"
+from model_loader import tokenizer, model, device
 
-tokenizer = AutoTokenizer.from_pretrained(model_id)
-model = AutoModelForCausalLM.from_pretrained(
-    model_id,
-    device_map="auto",
-    torch_dtype=torch.float16,
-    trust_remote_code=True
-)
 model.eval()
-
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model.to(device)
-
 
 # === Generation Function ===
 def generate_job_description(job_params: dict) -> str:

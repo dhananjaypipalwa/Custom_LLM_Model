@@ -4,8 +4,7 @@ from sentence_transformers import SentenceTransformer, util
 from dateutil import parser
 from geopy.distance import geodesic
 import pandas as pd
-from rapidfuzz import process
-from rapidfuzz import fuzz
+from rapidfuzz import process, fuzz
 
 # === Configurable Weights ===
 WEIGHTS = {
@@ -194,25 +193,15 @@ def score_education(candidate_edu_list, model, preferred_edu_vec):
     except:
         return 0.0
 
-
-
-
 def score_languages(candidate_langs, required_langs, threshold=80):
     if not candidate_langs or not required_langs:
         return 0.0
-
     matched = [
         lang for lang in required_langs
         if any(fuzz.partial_ratio(lang.lower(), c.lower()) >= threshold for c in candidate_langs)
     ]
-
     match_ratio = len(matched) / len(required_langs)
-    if match_ratio == 1.0:
-        return 5.0
-    elif match_ratio >= 0.5:
-        return 2.5
-    return 0.0
-
+    return 5.0 if match_ratio == 1.0 else 2.5 if match_ratio >= 0.5 else 0.0
 
 def match_resume_dict(resume, job_params, model, job_skills_vecs, job_title_vec, preferred_edu_vec):
     full = resume.get("full_output", {})
@@ -221,7 +210,6 @@ def match_resume_dict(resume, job_params, model, job_skills_vecs, job_title_vec,
     company_experience_score, total_years = score_company_experience(experiences, job_params["min_experience"])
     role_match_score = score_role_match(experiences, model, job_title_vec)
     education_score = score_education(full.get("education", []), model, preferred_edu_vec)
-
     candidate_locs = [resume["current_location"]] if resume.get("current_location") else []
     location_score = score_location_static(candidate_locs, job_params["location"])
     language_bonus = score_languages(full.get("languages", []), job_params.get("spoken_languages", []))
@@ -238,7 +226,7 @@ def match_resume_dict(resume, job_params, model, job_skills_vecs, job_title_vec,
 
     return {
         "name": resume.get("name", full.get("name", "N/A")),
-        "phone": resume.get("phone_numbers", ["N/A"])[0],
+        "phone": (resume.get("phone_numbers") or ["N/A"])[0],
         "match_score": round(total, 2),
         "details": {
             "skills": round(skills_score * 100, 2),
@@ -249,50 +237,4 @@ def match_resume_dict(resume, job_params, model, job_skills_vecs, job_title_vec,
             "location": round(location_score * 100, 2),
             "language_bonus": language_bonus
         }
-    }
-
-# ==== FASTAPI ROUTER ====
-from fastapi import APIRouter
-
-router = APIRouter()
-
-@router.post("/match-resumes")
-def match_all_resumes():
-    job_params = load_job_params()
-    model = SentenceTransformer("BAAI/bge-large-en-v1.5")
-
-    job_skills_vecs = model.encode(job_params["skills_required"], convert_to_tensor=True, normalize_embeddings=True)
-    job_title_vec = model.encode(job_params["job_title"], convert_to_tensor=True, normalize_embeddings=True)
-    preferred_edu_vec = model.encode(job_params["preferred_education"], convert_to_tensor=True, normalize_embeddings=True)
-
-    folder = "parsed_json"
-    os.makedirs("job_matching_result", exist_ok=True)
-    all_results = []
-
-    for file in os.listdir(folder):
-        if file.endswith(".json"):
-            file_path = os.path.join(folder, file)
-            with open(file_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-
-            if isinstance(data, list):
-                for resume in data:
-                    result = match_resume_dict(resume, job_params, model, job_skills_vecs, job_title_vec, preferred_edu_vec)
-                    all_results.append(result)
-            elif isinstance(data, dict):
-                result = match_resume_dict(data, job_params, model, job_skills_vecs, job_title_vec, preferred_edu_vec)
-                all_results.append(result)
-
-    all_results.sort(key=lambda x: x["match_score"], reverse=True)
-    top_10_results = all_results[:10]
-
-    with open("job_matching_result/results.json", "w", encoding="utf-8") as f:
-        json.dump({
-            "match_count": len(top_10_results),
-            "matches": top_10_results
-        }, f, indent=2)
-
-    return {
-        "match_count": len(top_10_results),
-        "matches": top_10_results
     }

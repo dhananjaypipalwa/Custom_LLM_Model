@@ -1,16 +1,20 @@
-#main.py
-
 from fastapi import FastAPI
-#from jd_api import router as job_router
-#from resume_api import router as resume_router
-#from match_api import router as match_router
-#from chat_api import router as chat_router
-from rag_api import router as rag_router
+from fastapi.middleware.cors import CORSMiddleware
+from dotenv import load_dotenv
+load_dotenv()
+from emergegpt_router import router as emerge_router
+from dotenv import load_dotenv
+load_dotenv()
 
 app = FastAPI()
 
-#app.include_router(job_router)
-#app.include_router(resume_router)
-#app.include_router(match_router)
-#app.include_router(chat_router)
-app.include_router(rag_router)
+app.include_router(emerge_router)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # or list your domains
+    allow_credentials=False,
+    allow_methods=["GET", "POST", "OPTIONS"],  # keep OPTIONS for preflight
+    allow_headers=["Authorization", "Content-Type"],
+    max_age=3600,
+)
