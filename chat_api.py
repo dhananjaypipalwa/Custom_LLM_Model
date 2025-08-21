@@ -13,7 +13,7 @@ async def chat(request: Request):
         streamer = TextIteratorStreamer(tokenizer, skip_special_tokens=True)
         generation_kwargs = dict(
             **inputs,
-            max_new_tokens=2048,
+            max_new_tokens=4096,
             do_sample=True, 
             streamer=streamer,
         )

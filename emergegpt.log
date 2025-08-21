@@ -1,0 +1,548 @@
+2025-08-20 11:31:08,103 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:31:08,103 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 11:31:08,111 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.007 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 11:31:08,331 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:31:08,331 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 11:31:10,103 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.772 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 11:31:56,931 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:31:56,932 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 11:31:56,937 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.006 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 11:31:57,104 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:31:57,104 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 11:31:58,478 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.373 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 11:33:32,775 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:33:32,775 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 11:33:34,242 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.467 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 11:33:51,524 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:33:51,524 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 11:33:52,717 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.193 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 11:40:25,372 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:40:25,372 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 11:40:26,643 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.271 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 11:40:40,142 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:40:40,142 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 11:40:41,325 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.183 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 11:46:47,305 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:46:47,306 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 11:46:47,306 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 11:46:47,314 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.009 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 11:46:47,484 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:46:47,485 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 11:46:47,485 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 11:46:48,930 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.446 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 11:47:05,951 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:47:05,951 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 11:47:05,951 - INFO - [Q] /v1/completions | what is the weather of noida?
+2025-08-20 11:47:08,808 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.858 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 11:48:32,071 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:48:32,071 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 11:48:32,071 - INFO - [Q] /v1/completions | hi
+2025-08-20 11:48:32,546 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.475 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 11:49:04,842 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:49:04,842 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 11:49:04,842 - INFO - [Q] /v1/completions | who is the owner of puma and who is the owner of rolls rolyce and who is the owner of nike?
+2025-08-20 11:49:06,761 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.919 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 11:52:50,214 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:52:50,215 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 11:52:50,215 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 11:52:50,216 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 11:52:50,400 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:52:50,400 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 11:52:50,401 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 11:52:51,263 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.863 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 11:53:00,979 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:53:00,979 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 11:53:00,979 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 11:53:00,981 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 11:53:01,156 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 11:53:01,156 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 11:53:01,156 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 11:53:02,112 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.956 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 12:06:06,104 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 12:06:06,105 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 12:06:06,105 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-20 12:06:06,108 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.004 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 12:06:06,281 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 12:06:06,281 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 12:06:06,281 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-20 12:06:08,762 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.480 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 13:05:49,146 - INFO - [HIT] /v1/completions | meta={'ip': '103.255.2.27', 'ua': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:05:49,146 - INFO - [INFO] /v1/completions body_keys=['task', 'input']
+2025-08-20 13:05:49,146 - INFO - [Q] /v1/completions | hey
+2025-08-20 13:05:49,628 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.481 | extra={'task': 'openai_chat', 'stream': True}
+2025-08-20 13:25:49,981 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:25:49,981 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:25:49,981 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:25:49,984 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.003 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:30:00,011 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:30:00,012 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:30:00,012 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-20 13:30:00,013 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:30:00,219 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:30:00,220 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 13:30:00,220 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-20 13:30:01,486 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.267 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 13:32:15,167 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:32:15,167 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:32:15,167 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:32:15,169 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:32:45,154 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:32:45,154 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:32:45,154 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:32:45,155 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:33:30,926 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:33:30,926 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:33:30,927 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:33:30,928 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:36:04,688 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:36:04,688 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:36:04,689 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:36:04,691 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:36:06,581 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:36:06,582 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:36:06,582 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:36:06,583 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:36:08,419 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:36:08,419 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:36:08,419 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:36:08,420 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:36:57,615 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:36:57,615 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:36:57,615 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:36:57,617 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:36:57,818 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:36:57,819 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 13:36:57,819 - INFO - [Q] /v1/completions | What's the weather in Delhi?
+2025-08-20 13:36:58,797 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.978 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 13:37:24,001 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:37:24,002 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:37:24,002 - INFO - [Q] /v1/completions | What's the weather in Owego NY?
+2025-08-20 13:37:24,004 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:37:32,030 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:37:32,030 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 13:37:32,030 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 13:37:32,032 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 13:37:32,238 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 13:37:32,238 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 13:37:32,238 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 13:37:33,185 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.946 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:26:20,801 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:26:20,801 - INFO - [INFO] /v1/completions body_keys=['method', 'model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:26:20,801 - INFO - [Q] /v1/completions | [{'type': 'text', 'text': "What's the weather in Owego?"}]
+2025-08-20 17:26:20,802 - INFO - [DONE] /v1/completions | status=400 | duration_sec=0.001 | extra={'error': 'Invalid body: 3 validation errors for OAIReq\nmessages.0.content\n  Input should be a valid string [type=string_type, input_value=[{\'type\': \'text\', \'text\':...the weather in Owego?"}], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\ntools.0.function\n  Field required [type=missing, input_value={\'type\': \'function\', \'nam...onalProperties\': False}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.11/v/missing\ntool_choice\n  Input should be a valid string [type=string_type, input_value={\'type\': \'auto\'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type'}
+2025-08-20 17:27:35,727 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:27:35,728 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:27:35,728 - INFO - [Q] /v1/completions | [{'type': 'text', 'text': "What's the weather in Owego?"}]
+2025-08-20 17:27:35,728 - INFO - [DONE] /v1/completions | status=400 | duration_sec=0.000 | extra={'error': 'Invalid body: 3 validation errors for OAIReq\nmessages.0.content\n  Input should be a valid string [type=string_type, input_value=[{\'type\': \'text\', \'text\':...the weather in Owego?"}], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\ntools.0.function\n  Field required [type=missing, input_value={\'type\': \'function\', \'nam...onalProperties\': False}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.11/v/missing\ntool_choice\n  Input should be a valid string [type=string_type, input_value={\'type\': \'auto\'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type'}
+2025-08-20 17:29:16,654 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:29:16,654 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:29:16,654 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:29:16,656 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:29:31,243 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:29:31,243 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:29:31,243 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:29:31,244 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:30:05,136 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:30:05,136 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:30:05,136 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:30:05,137 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:30:05,252 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:30:05,252 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:30:05,252 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:30:05,252 - INFO - [DONE] /v1/completions | status=400 | duration_sec=0.000 | extra={'error': "Invalid body: 1 validation error for OAIReq\nmessages.1.content\n  Field required [type=missing, input_value={'role': 'assistant', 'to...', 'arguments': '{}'}}]}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.11/v/missing"}
+2025-08-20 17:30:41,601 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:30:41,601 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:30:41,601 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:30:41,603 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:30:41,715 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:30:41,715 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:30:41,715 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:30:43,326 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.610 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:31:40,771 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:31:40,771 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:31:40,771 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:31:40,772 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:31:40,886 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:31:40,886 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:31:40,886 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:31:42,282 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.396 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:32:08,847 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:32:08,848 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:32:08,848 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:32:08,849 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:32:08,957 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:32:08,957 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:32:08,957 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:32:10,698 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.741 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:33:24,051 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:33:24,051 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:33:24,051 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:33:24,053 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:33:24,165 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:33:24,165 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:33:24,165 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:33:45,450 - INFO - [DONE] /v1/completions | status=200 | duration_sec=21.284 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:34:59,252 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:34:59,253 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:34:59,253 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:34:59,255 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:34:59,370 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:34:59,370 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:34:59,370 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 17:35:05,776 - INFO - [DONE] /v1/completions | status=200 | duration_sec=6.406 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:36:19,613 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:36:19,613 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:36:19,613 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:36:19,615 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:36:19,727 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:36:19,727 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:36:19,727 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:36:21,248 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.521 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:36:24,750 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:36:24,750 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:36:24,750 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:36:24,752 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:36:24,861 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:36:24,862 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:36:24,862 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:36:29,763 - INFO - [DONE] /v1/completions | status=200 | duration_sec=4.902 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:41:33,655 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:41:33,656 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:41:33,656 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:41:33,658 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:41:33,767 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:41:33,767 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:41:33,767 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:41:36,251 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.484 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:42:06,882 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:06,882 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:06,882 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:06,884 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:42:06,990 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:06,990 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:06,990 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:10,955 - INFO - [DONE] /v1/completions | status=200 | duration_sec=3.965 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:42:32,585 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:32,586 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:32,586 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:32,587 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:42:32,699 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:32,699 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:32,699 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:35,618 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.919 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:42:41,462 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:41,462 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:41,462 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:41,464 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:42:41,588 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:41,588 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:41,588 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:44,415 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.827 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:42:52,569 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:52,570 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:52,570 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:52,572 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:42:52,679 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:42:52,679 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:42:52,679 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:42:55,062 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.383 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:44:21,726 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:44:21,727 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:44:21,727 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:44:21,730 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.003 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:44:21,837 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:44:21,837 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:44:21,837 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:44:23,013 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.176 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:46:30,103 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:46:30,103 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:46:30,103 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:46:30,105 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:46:30,215 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:46:30,215 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:46:30,215 - INFO - [Q] /v1/completions | What's latest news on Hurricane Erin?
+2025-08-20 17:46:31,779 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.564 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:48:27,987 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:48:27,987 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 17:48:27,987 - INFO - [Q] /v1/completions | Search for weather in New York
+2025-08-20 17:48:27,990 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.003 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:50:14,539 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:50:14,540 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:50:14,540 - INFO - [Q] /v1/completions | Search for latest news on Hurricane Erin
+2025-08-20 17:50:14,542 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.003 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:50:14,663 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:50:14,663 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'temperature', 'tools', 'tool_choice']
+2025-08-20 17:50:14,663 - INFO - [Q] /v1/completions | Search for latest news on Hurricane Erin
+2025-08-20 17:53:37,493 - INFO - [DONE] /v1/completions | status=200 | duration_sec=202.830 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 17:53:37,496 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:53:37,496 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 17:53:37,496 - INFO - [Q] /v1/completions | Search for weather in New York
+2025-08-20 17:53:37,497 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 17:53:37,498 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 17:53:37,498 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 17:53:37,498 - INFO - [Q] /v1/completions | Search for weather in New York
+2025-08-20 17:53:37,498 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:15:23,812 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:15:23,813 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:15:23,813 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:15:23,814 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:15:24,115 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:15:24,115 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 18:15:24,115 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:15:25,169 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.054 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 18:15:46,391 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:15:46,392 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:15:46,392 - INFO - [Q] /v1/completions | Search for weather in New York
+2025-08-20 18:15:46,393 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:17:31,384 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:17:31,384 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:17:31,384 - INFO - [Q] /v1/completions | Search for weather in New York
+2025-08-20 18:17:31,386 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:18:16,833 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:18:16,834 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:18:16,834 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:18:16,835 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:18:57,837 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:18:57,837 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:18:57,837 - INFO - [Q] /v1/completions | Search for weather in New York
+2025-08-20 18:18:57,838 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:19:06,034 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:19:06,034 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:19:06,034 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:19:06,035 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:19:06,218 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:19:06,218 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 18:19:06,218 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:19:07,245 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.027 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 18:20:03,719 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:20:03,719 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:20:03,720 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:20:03,721 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:20:03,929 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:20:03,929 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 18:20:03,930 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:20:04,958 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.029 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 18:20:53,484 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:20:53,484 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:20:53,484 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:20:53,485 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:20:53,706 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:20:53,706 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 18:20:53,706 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:20:54,622 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.917 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 18:23:26,083 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:23:26,083 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:23:26,083 - INFO - [Q] /v1/completions | Search for weather in New York
+2025-08-20 18:23:26,085 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:32:39,479 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:32:39,480 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:32:39,480 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:32:39,482 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:32:39,688 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:32:39,689 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-20 18:32:39,689 - INFO - [Q] /v1/completions | What's the weather in Owego?
+2025-08-20 18:32:40,655 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.966 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-20 18:33:15,777 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:33:15,778 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:33:15,778 - INFO - [Q] /v1/completions | What's the weather in Owego in celsius?
+2025-08-20 18:33:15,780 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.002 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-20 18:33:37,933 - INFO - [HIT] /v1/completions | meta={'ip': '67.251.79.238', 'ua': 'node', 'has_auth': True, 'note': 'unified surface'}
+2025-08-20 18:33:37,933 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-20 18:33:37,933 - INFO - [Q] /v1/completions | What's the weather in celsius in Owego?
+2025-08-20 18:33:37,934 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.001 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 04:23:35,721 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 04:23:35,721 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 04:23:35,722 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 04:23:35,724 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.003 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 04:23:35,889 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 04:23:35,889 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 04:23:35,889 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 04:23:37,003 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.114 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 04:45:37,004 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 04:45:37,004 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools']
+2025-08-21 04:45:37,004 - INFO - [Q] /v1/completions | What is the weather in Delhi?
+2025-08-21 04:45:37,007 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.004 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:35:12,217 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:35:12,218 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools']
+2025-08-21 05:35:12,218 - INFO - [Q] /v1/completions | What is the weather in Delhi?
+2025-08-21 05:35:13,221 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.003 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:37:04,005 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:37:04,005 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:37:04,006 - INFO - [Q] /v1/completions | Search for the latest news on AI regulation in Europe
+2025-08-21 05:37:05,160 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.154 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:38:19,114 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:38:19,114 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:38:19,114 - INFO - [Q] /v1/completions | Create a high priority ticket for database outage in Mumbai
+2025-08-21 05:38:20,563 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.448 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:45:25,933 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:45:25,933 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:45:25,934 - INFO - [Q] /v1/completions | Search for the latest news on AI regulation in Europe
+2025-08-21 05:45:27,075 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.141 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:45:45,671 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:45:45,671 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools']
+2025-08-21 05:45:45,672 - INFO - [Q] /v1/completions | What is the weather in Delhi?
+2025-08-21 05:45:46,244 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.573 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:46:07,387 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:46:07,387 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools']
+2025-08-21 05:46:07,387 - INFO - [Q] /v1/completions | What is the weather in Rochester?
+2025-08-21 05:46:07,947 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.560 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:47:43,281 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'undici', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:47:43,282 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:47:43,282 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 05:47:44,270 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.988 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:47:44,291 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'undici', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:47:44,291 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:47:44,291 - INFO - [Q] /v1/completions | weather for Delhi please
+2025-08-21 05:47:45,114 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.823 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:47:45,119 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'undici', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:47:45,119 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:47:45,119 - INFO - [Q] /v1/completions | Temp for Mumbai in C?
+2025-08-21 05:47:45,958 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.839 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:48:10,987 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'undici', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:48:10,987 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:48:10,987 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 05:48:11,848 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.861 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:48:11,868 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'undici', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:48:11,869 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:48:11,869 - INFO - [Q] /v1/completions | weather for Delhi please
+2025-08-21 05:48:12,684 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.816 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:48:12,691 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'undici', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:48:12,691 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:48:12,691 - INFO - [Q] /v1/completions | Temp for Mumbai in C?
+2025-08-21 05:48:13,536 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.845 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:50:16,460 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'undici', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:50:16,460 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:50:16,460 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 05:50:17,326 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.866 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:53:07,427 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:53:07,428 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:53:07,428 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 05:53:08,337 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.909 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:53:08,531 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:53:08,532 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 05:53:08,532 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 05:53:09,564 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.033 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 05:54:46,334 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:54:46,334 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:54:46,334 - INFO - [Q] /v1/completions | Create a high priority ticket for database outage in Mumbai
+2025-08-21 05:54:47,869 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.536 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 05:57:55,576 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 05:57:55,576 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 05:57:55,576 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 05:57:56,961 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.385 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:01:10,679 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:01:10,679 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:01:10,680 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:01:12,243 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.563 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:01:12,254 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:01:12,255 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:01:12,255 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:01:12,255 - INFO - [DONE] /v1/completions | status=400 | duration_sec=0.000 | extra={'error': 'Invalid body: 1 validation error for OAIReq\nmessages.1.content\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type'}
+2025-08-21 06:02:34,520 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:02:34,520 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:02:34,520 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:02:36,047 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.527 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:02:36,067 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:02:36,067 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:02:36,067 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:02:37,557 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.490 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:05:12,590 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:05:12,591 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:05:12,591 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:05:14,132 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.541 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:05:14,146 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:05:14,146 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:05:14,146 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:05:15,732 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.586 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:11:17,081 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:11:17,081 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:11:17,081 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:11:18,549 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.468 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:11:18,563 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:11:18,563 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:11:18,563 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:11:20,667 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.104 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:22:26,591 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:22:26,592 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:22:26,592 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:22:28,492 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.900 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:22:28,506 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:22:28,506 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:22:28,506 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:22:30,796 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.290 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:25:17,507 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:25:17,507 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:25:17,508 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:25:18,853 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.346 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:25:18,865 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:25:18,865 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:25:18,866 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:25:20,311 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.445 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:25:48,584 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:25:48,584 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:25:48,584 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:25:50,113 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.529 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:25:50,140 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:25:50,141 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:25:50,141 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:25:52,108 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.967 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:28:56,869 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:28:56,869 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:28:56,870 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:28:57,773 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.904 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:28:57,991 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:28:57,991 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:28:57,991 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:31:54,360 - INFO - [DONE] /v1/completions | status=200 | duration_sec=176.369 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:37:06,604 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:37:06,605 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:37:06,605 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:37:07,578 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.974 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:37:07,807 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:37:07,807 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tool_choice']
+2025-08-21 06:37:07,807 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:39:56,361 - INFO - [DONE] /v1/completions | status=200 | duration_sec=168.553 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 06:43:42,945 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:43:42,945 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 06:43:42,945 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:43:43,817 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.872 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 06:43:43,997 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 06:43:43,997 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 06:43:43,997 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 06:43:44,855 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.858 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 07:14:58,899 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 07:14:58,899 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 07:14:58,899 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 07:14:59,878 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.979 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 07:15:00,047 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 07:15:00,047 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 07:15:00,047 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 07:15:00,908 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.862 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 07:20:13,156 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 07:20:13,156 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 07:20:13,157 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 07:20:14,057 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.900 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 07:20:14,221 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 07:20:14,221 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 07:20:14,221 - INFO - [Q] /v1/completions | What's the weather in Rochester?
+2025-08-21 07:20:15,065 - INFO - [DONE] /v1/completions | status=200 | duration_sec=0.843 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 07:27:52,374 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 07:27:52,374 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 07:27:52,374 - INFO - [Q] /v1/completions | What's the weather in Sujangarh, Rajasthan?
+2025-08-21 07:27:53,445 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.071 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 07:27:53,644 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 07:27:53,644 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 07:27:53,644 - INFO - [Q] /v1/completions | What's the weather in Sujangarh, Rajasthan?
+2025-08-21 07:27:54,783 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.139 | extra={'model': 'emergegpt', 'stream': False}
+2025-08-21 08:35:17,037 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'curl/8.5.0', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 08:35:17,037 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 08:35:17,037 - INFO - [Q] /v1/completions | Create a high priority ticket for database outage in Mumbai
+2025-08-21 08:35:19,055 - INFO - [DONE] /v1/completions | status=200 | duration_sec=2.018 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 08:36:04,474 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 08:36:04,474 - INFO - [INFO] /v1/completions body_keys=['model', 'messages', 'tools', 'tool_choice']
+2025-08-21 08:36:04,474 - INFO - [Q] /v1/completions | What's the weather in Sujangarh, Rajasthan?
+2025-08-21 08:36:05,888 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.414 | extra={'model': 'emergegpt', 'finish_reason': 'tool_calls'}
+2025-08-21 08:36:06,132 - INFO - [HIT] /v1/completions | meta={'ip': '165.73.253.125', 'ua': 'node-fetch', 'has_auth': True, 'note': 'unified surface'}
+2025-08-21 08:36:06,132 - INFO - [INFO] /v1/completions body_keys=['model', 'messages']
+2025-08-21 08:36:06,132 - INFO - [Q] /v1/completions | What's the weather in Sujangarh, Rajasthan?
+2025-08-21 08:36:07,737 - INFO - [DONE] /v1/completions | status=200 | duration_sec=1.605 | extra={'model': 'emergegpt', 'stream': False}

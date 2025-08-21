@@ -30,6 +30,4 @@ def stream_generate_response(prompt: str):
     for token in streamer:
         if not token:
             continue
-        if '[/INST]' in token or '</s>' in token:
-            break
         yield token

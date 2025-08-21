@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.16",
+    "ai": "^5.0.18",
+    "dotenv": "^17.2.1"
+  }
+}
